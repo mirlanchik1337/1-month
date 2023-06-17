@@ -7,4 +7,5 @@ Moй телеграмм : https://t.me/dreeemann
 
 Коротко о языке можешь прочитать : https://ru.wikipedia.org/wiki/Python
 
-1_) LESSON-1:
+1_) LESSON-1: https://github.com/mirlanchik1337/1-month/blob/main/lesson_1.py
+2_) LESSON-2: 
